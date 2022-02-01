@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cceddec-cd30-4b9e-9c71-9d8059f2a335" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doLogin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doLogout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/assets/img/bg-callout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/assets/img/bg-masthead.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/assets/img/portfolio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/assets/img/portfolio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/assets/img/portfolio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/assets/img/portfolio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +31,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b8ee1f07-11d9-434e-b794-538dd4e98573" />
+        <option name="url" value="git@github.com:jacky50737/PK10WEB.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/admin.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -146,6 +172,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -158,6 +186,8 @@
       <option name="presentableId" value="Default" />
       <updated>1643308966641</updated>
       <workItem from="1643308968128" duration="306000" />
+      <workItem from="1643326827904" duration="1110000" />
+      <workItem from="1643374906330" duration="23570000" />
     </task>
     <servers />
   </component>
